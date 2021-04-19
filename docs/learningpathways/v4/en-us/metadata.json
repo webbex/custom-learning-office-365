@@ -178,7 +178,7 @@
         {
           "Id": "095cec92-2c4a-4d4c-b935-a921c8083fa3",
           "Name": "Azure Fundamentals",
-          "Image": "https://fcdunkel.sharepoint.com/sites/M365LP/SiteAssets/azure.png",
+          "Image": "SiteAssets/azure.png",
           "TechnologyId": "0f8255c7-cba9-4c58-8cef-4f206feea585",
           "SubjectId": null,
           "Source": "Microsoft",
@@ -187,7 +187,7 @@
         {
           "Id": "b5859bdb-cb62-43a6-9ecc-947b31c6bb23",
           "Name": "Azure Security",
-          "Image": "https://fcdunkel.sharepoint.com/sites/M365LP/SiteAssets/azure.png",
+          "Image": "SiteAssets/azure.png",
           "TechnologyId": "0f8255c7-cba9-4c58-8cef-4f206feea585",
           "SubjectId": null,
           "Source": "Microsoft",
