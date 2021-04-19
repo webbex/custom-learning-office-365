@@ -1,6 +1,11 @@
 {
   "Technologies": [
     {
+      "Id": "0f8255c7-cba9-4c58-8cef-4f206feea585",
+      "Name": "Azure",
+      "Subjects": []
+    },
+    {
       "Id": "d3ee44dc-f4ff-424b-a3be-3580954fc479",
       "Name": "Excel",
       "Subjects": []
@@ -161,6 +166,25 @@
           "SubCategories": []
         }
       ]
+    },
+    {
+      "Id": "646b4eb4-32c0-4fdc-93fa-0ef895470b74",
+      "Name": "Azure Learning",
+      "Image": "",
+      "TechnologyId": "0f8255c7-cba9-4c58-8cef-4f206feea585",
+      "SubjectId": "",
+      "Source": "Microsoft",
+      "SubCategories": [
+        {
+          "Id": "095cec92-2c4a-4d4c-b935-a921c8083fa3",
+          "Name": "Azure Fundamentals",
+          "Image": "images/categories/first_days.png",
+          "TechnologyId": "0f8255c7-cba9-4c58-8cef-4f206feea585",
+          "SubjectId": null,
+          "Source": "Microsoft",
+          "SubCategories": []
+        }        
+      ]  
     },
     {
       "Id": "4f7378cd-7c40-4a99-9617-94681300c828",
