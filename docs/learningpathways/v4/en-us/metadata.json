@@ -192,6 +192,15 @@
           "SubjectId": null,
           "Source": "Microsoft",
           "SubCategories": []
+        },
+        {
+          "Id": "1e25cb3a-f451-4e44-b54d-bd42c98521fb",
+          "Name": "Azure Development",
+          "Image": "images/categories/azure.png",
+          "TechnologyId": "0f8255c7-cba9-4c58-8cef-4f206feea585",
+          "SubjectId": null,
+          "Source": "Microsoft",
+          "SubCategories": []
         }
       ]  
     },
